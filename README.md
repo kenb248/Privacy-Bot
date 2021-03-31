@@ -4,11 +4,12 @@ A Python project designed for use with google trends to simulate user interests 
 
 Required Packages:
 
--webbrowser
--googlesearch
+-webbrowser \n
+-googlesearch \n
 -pytrends
 -pandas
 
+Download and store the words_alpha.txt file in the same folder as the python file.
 
 The program will search using your default browser.
 
